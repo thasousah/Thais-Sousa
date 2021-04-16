@@ -1,6 +1,6 @@
 ### HELLO WELCOME!
 
-### Me chamo Thais, Sou estudante de analise e Desenvolvimento de Sistema , Atualmente estou estudando para se tornar uma desenvolvedora Front End e analista de sistema , estou em busca da minha primeira oportunidade na área de TI.
+### Me chamo Thais, Sou estudante de analise e Desenvolvimento de Sistema , Atualmente estou estudando para se tornar uma desenvolvedora Front End , estou em busca da minha primeira oportunidade na área de TI.
 
 ### Possuo conhecimentos nas seguintes linguagens de progamação:
 
